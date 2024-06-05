@@ -75,6 +75,7 @@ def create_new_memory_retriever():
 george_memory = AgentMemory(
     llm=llm,
     memory_retriever=create_new_memory_retriever(),
+    reflection_threshold=150.0,
 )
 
 george = Agent(
@@ -87,7 +88,8 @@ george = Agent(
 
 thomas_memory = AgentMemory(
     llm=llm,
-    memory_retriever=create_new_memory_retriever()
+    memory_retriever=create_new_memory_retriever(),
+    reflection_threshold=150.0,
 )
 
 thomas = Agent(

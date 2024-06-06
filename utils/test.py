@@ -1,12 +1,12 @@
 from langchain_openai import AzureChatOpenAI, AzureOpenAIEmbeddings
 from langchain.retrievers import TimeWeightedVectorStoreRetriever
-from pinecone import Pinecone, ServerlessSpec
+# from pinecone import Pinecone, ServerlessSpec
 from typing import Any, Dict, List, Optional
 from pymongo import MongoClient
 from langchain_mongodb import MongoDBAtlasVectorSearch
 from langchain_community.vectorstores import FAISS
 from langchain_community.docstore.in_memory import InMemoryDocstore
-from langchain_pinecone import PineconeVectorStore
+# from langchain_pinecone import PineconeVectorStore
 import faiss
 import math
 # from villager_description import villager_descriptions

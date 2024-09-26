@@ -7,9 +7,9 @@ This is a fun simulation comprising of a mixture of mafia and among us. The vill
 
 ![Screenshot 2024-09-26 103750](https://github.com/user-attachments/assets/c6bff396-0c62-4382-a549-b57fd8e7ca30)
 
+![Screenshot 2024-07-17 164647](https://github.com/user-attachments/assets/a7ac89a0-ea5f-4ab5-ac8b-f7f144f6a080)
+
 ![Screenshot 2024-09-26 103401](https://github.com/user-attachments/assets/6f62fd3f-3bd1-4a0a-b242-be1151110fa6)
-
-
 
 ## Installation
 1. Clone the repository to your local machine.
